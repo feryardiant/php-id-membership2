@@ -8,7 +8,7 @@
         "cloudinary/cloudinary_php": "dev-master",
         "google/recaptcha": "~1.1",
         "projek-xyz/slim-plates": "~0.2",
-        "phpmailer/phpmailer": "^5.2",
+        "phpmailer/phpmailer": "^6.1",
         "slim/slim": "~3.1",
         "slim/flash": "~0.1",
         "slim/pdo": "~1.9",
